@@ -5,7 +5,7 @@
 4) run the server using `node app.js` and it will be running on port 5000
 5) go to the browser and open `http://localhost:5000/` and you will be able to see login page
 
-#####note: above page will be rendered from public directory in server folder, which contains the result of build files from client(written in react).
+##### note: above page will be rendered from public directory in server folder, which contains the result of build files from client(written in react).
 
 ### Running project with react development server:
 1) follow step 1,2 and 3 from quick setup
