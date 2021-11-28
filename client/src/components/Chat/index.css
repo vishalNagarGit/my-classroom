@@ -1,0 +1,22 @@
+.chat-box{
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    border: 1px solid grey;
+    flex: 1;
+    align-items: center;
+   
+}
+
+.message-box{
+    display:flex;
+    flex-direction: column;
+    height: 80vh;
+    width:800px;
+    overflow-y: scroll;
+}
+
+.type-box{
+    display: flex;
+    width: 800px;
+}

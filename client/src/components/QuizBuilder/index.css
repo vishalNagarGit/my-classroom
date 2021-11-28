@@ -1,0 +1,39 @@
+.quizBuilder-container{
+        display: flex;
+        flex-direction: column;
+        overflow: scroll;
+        height: 90vh;
+        border: 1px solid grey;
+        flex: 1;
+        align-items: center;
+    }
+
+.question-list{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+    width: 700px;
+    border:1px solid black
+}
+
+#asg-name{
+    display: flex;
+   flex-basis: 500px;
+   margin: 1px;
+   
+}
+
+#teams-dropdown{
+    display: flex;
+    flex-basis: 200px;
+  padding: 2px;  
+  margin: 1px; 
+}
+
+.asg-team{
+    width: 700px;
+    display: flex;
+    align-items: center;
+}

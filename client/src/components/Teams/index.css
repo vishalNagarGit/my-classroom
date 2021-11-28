@@ -1,0 +1,22 @@
+.team-wrapper{
+    display:flex;
+    height: 90vh;
+    flex:1;
+}
+
+
+.team{
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    height: 90vh;
+    border: 1px solid grey;
+    flex: 1;
+    justify-content: left;
+}
+
+.team>*{
+    flex:1;
+    display: flex;
+    flex-wrap: wrap;
+}

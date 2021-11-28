@@ -1,0 +1,19 @@
+.question-form{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    margin-top: 2px;
+    background: #eee;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.question-form>*{
+    display: flex;
+    align-items: center;
+    margin: 2px;
+}
+
+.row{
+    margin: 0;
+}

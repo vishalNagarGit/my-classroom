@@ -1,0 +1,18 @@
+.message{
+    display: flex;
+    flex-direction: column;
+}
+.messagecard
+{
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+    border: 1px solid black;
+    background: #eee;
+    height: auto;
+    margin: 3px;
+    word-wrap: break-word;
+    max-width: 25rem;
+}

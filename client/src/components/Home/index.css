@@ -1,0 +1,14 @@
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.topnav{
+    display: flex;
+    flex-direction: column;
+}
+.bigbox{
+    display: flex;
+    flex:1;
+}

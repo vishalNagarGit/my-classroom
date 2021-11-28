@@ -1,0 +1,6 @@
+#navbarSupportedContent{
+    justify-content: right;
+}
+#logoutButton{
+    display: flex;
+}
